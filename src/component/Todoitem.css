@@ -1,0 +1,10 @@
+div.item{
+
+    /* background-color: currentcolor; */
+    background-color: maroon;
+    color: white;
+    height: 58vh;
+    border-radius: 10px 10px;
+    width: 35vw;
+    padding: 20px;
+}
